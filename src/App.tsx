@@ -11,7 +11,7 @@ const App: React.FC = () => {
         <Router basename="/">
             <div>
                 <header>
-                    <h1>UDR GAMES</h1><a href="https:udro.itch.io" target="_blank" rel="noopener noreferrer">
+                    <h1>UDR GAMES</h1><a href="https://udro.itch.io" target="_blank" rel="noopener noreferrer">
                         <img src={itch} alt="itch" style={{ width: '200px', height: 'auto' }} />
                     </a>
                 </header>
