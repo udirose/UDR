@@ -10,8 +10,8 @@ const App: React.FC = () => {
                 <h1>UDR GAMES</h1>
             </header>
             <main>
-                <About />
                 <Projects />
+                <About />
                 <Contact />
             </main>
         </div>
