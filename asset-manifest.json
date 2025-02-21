@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/UDR/static/css/main.bf874e77.css",
+    "main.js": "/UDR/static/js/main.dcb8c213.js",
+    "static/media/SourceCodePro-Regular.otf": "/UDR/static/media/SourceCodePro-Regular.e90ab08d61b15012e1ae.otf",
+    "static/media/background.png": "/UDR/static/media/background.25e006ee88a5e8be31a8.png",
+    "static/media/pixel.regular.otf": "/UDR/static/media/pixel.regular.c0a54a253b3c8f9a7849.otf",
+    "static/media/joystix.otf": "/UDR/static/media/joystix.28a69e86e377d611dcaf.otf",
+    "static/media/discord-logo-blue.png": "/UDR/static/media/discord-logo-blue.281d26c0437321cd683b.png",
+    "static/media/Quicksand-Regular.otf": "/UDR/static/media/Quicksand-Regular.1a8cbf2a0b04da5410e2.otf",
+    "static/media/itch.svg": "/UDR/static/media/itch.9faf3187616b105bc094638c1a59c27d.svg",
+    "index.html": "/UDR/index.html",
+    "main.bf874e77.css.map": "/UDR/static/css/main.bf874e77.css.map",
+    "main.dcb8c213.js.map": "/UDR/static/js/main.dcb8c213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf874e77.css",
+    "static/js/main.dcb8c213.js"
+  ]
+}
