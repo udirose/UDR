@@ -8,7 +8,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 
 const App: React.FC = () => {
     return (
-        <Router basename="/udr">
+        <Router basename="/">
             <div>
                 <header>
                     <h1>UDR GAMES</h1><a href="https:udro.itch.io" target="_blank" rel="noopener noreferrer">
