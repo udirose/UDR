@@ -3,9 +3,9 @@ import React from 'react';
 const About: React.FC = () => {
     return (
         <section>
-            <h2>About US</h2>
+            <h2>About UDR</h2>
             <p>
-                UDR Games is a small indie game development studio learning as we go. We are passionate about making difficult, addicting, and beautiful games. Please check out the Itch!
+                UDR is passionate about creating fun and addicting games while continuing to learn and improve at game development!
             </p>
         </section>
     );
