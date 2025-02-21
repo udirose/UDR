@@ -1,2 +1,1 @@
-# UDR
- The Website of UDR.GAMES
+The website for UDR.games
