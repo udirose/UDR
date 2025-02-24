@@ -1,1 +1,1 @@
-The website for UDR.games
+UDR
