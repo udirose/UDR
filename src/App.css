@@ -9,12 +9,46 @@
 }
 @font-face {
   font-family: "pixel";
-  src: url(/public/fonts/pixel.regular.otf) format("opentype");
-}
-@font-face {
-  font-family: "pixel";
   src: url(/public/fonts/joystix/joystix.otf) format("opentype");
 }
+
+
+@font-face {
+  font-family: "pixelify";
+  src: url(/public/fonts/pixelify/PixelifySans-Regular.otf) format("opentype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "pixelify";
+  src: url(/public/fonts/pixelify/PixelifySans-Black.otf) format("opentype");
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "pixelify";
+  src: url(/public/fonts/pixelify/PixelifySans-Bold.otf) format("opentype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "pixelify";
+  src: url(/public/fonts/pixelify/PixelifySans-ExtraBold.otf) format("opentype");
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "pixelify";
+  src: url(/public/fonts/pixelify/PixelifySans-Medium.otf) format("opentype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "pixelify";
+  src: url(/public/fonts/pixelify/PixelifySans-SemiBold.otf) format("opentype");
+  font-weight: 600;
+}
+
 html, body {
   height: 100%;
   margin: 0;
@@ -60,7 +94,8 @@ body{
   padding-left: 24px;
   padding-right: 24px;
   color: #f0ead6;
-  font-family: "pixel", sans-serif;
+  font-family: "pixelify", sans-serif;
+  font-weight: 600;
   background-image: url('../public//background.png');
   background-size: cover;
   background-repeat: no-repeat;
